@@ -1,4 +1,4 @@
-package com.becooni.jobplanet
+package com.becooni.composeexam
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

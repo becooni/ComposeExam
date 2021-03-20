@@ -1,4 +1,4 @@
-package com.becooni.jobplanet
+package com.becooni.composeexam
 
 import org.junit.Test
 

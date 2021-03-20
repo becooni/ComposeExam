@@ -1,4 +1,4 @@
-package com.becooni.jobplanet
+package com.becooni.composeexam
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.becooni.jobplanet", appContext.packageName)
+        assertEquals("com.becooni.composeexam", appContext.packageName)
     }
 }

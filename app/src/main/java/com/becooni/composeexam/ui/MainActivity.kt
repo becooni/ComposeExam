@@ -1,8 +1,8 @@
-package com.becooni.jobplanet.ui
+package com.becooni.composeexam.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.becooni.jobplanet.R
+import com.becooni.composeexam.R
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
